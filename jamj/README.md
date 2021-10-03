@@ -11,5 +11,5 @@ How to run my code?
 
 Optional: ./testing/dummyCloud.js -> A cloud that constantly updates the allocation rule   
 
-CBOR format at: https://docs.google.com/document/d/1GcYUkoHNBFMf-xU_jJ1j5y834mvRLJsJGEwvtpgM6N8/edit?usp=sharing   
+API Specification at: https://docs.google.com/document/d/1GcYUkoHNBFMf-xU_jJ1j5y834mvRLJsJGEwvtpgM6N8/edit?usp=sharing
  
