@@ -1,0 +1,83 @@
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>for /L %x in (1 1 10) do (start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+Worker id = 115
+Worker id = 144
+Worker id = 135
+Successfully connected to MQTT broker!
+
+Worker id = 43
+Successfully connected to MQTT broker!
+
+Worker id = 135
+Worker id = 212
+Successfully connected to MQTT broker!
+
+Successfully connected to MQTT broker!
+
+Successfully connected to MQTT broker!
+
+Worker id = 79
+Successfully connected to MQTT broker!
+
+Worker id = 178
+Successfully connected to MQTT broker!
+
+Worker id = 171
+Worker id = 36
+Successfully connected to MQTT broker!
+
+Successfully connected to MQTT broker!
+
+Successfully connected to MQTT broker!
+
+10000 requests time: 1.346s. 1628220876943ms to 1628220878289ms
+10000 requests time: 1.427s. 1628220876928ms to 1628220878355ms
+10000 requests time: 1.433s. 1628220876946ms to 1628220878379ms
+10000 requests time: 1.475s. 1628220876907ms to 1628220878382ms
+10000 requests time: 1.462s. 1628220876928ms to 1628220878390ms
+10000 requests time: 1.511s. 1628220876900ms to 1628220878411ms
+10000 requests time: 1.487s. 1628220876962ms to 1628220878449ms
+10000 requests time: 1.493s. 1628220876975ms to 1628220878468ms
+10000 requests time: 1.526s. 1628220876959ms to 1628220878485ms
+10000 requests time: 1.541s. 1628220876979ms to 1628220878520ms
+10000 responses time: 874.277s. 1628220896107ms to 1628221770384ms
+Successfully connected to MQTT broker!
+
+Successfully connected to MQTT broker!
+
+Successfully connected to MQTT broker!
+
+Successfully connected to MQTT broker!
+
+Successfully connected to MQTT broker!
+
+Successfully connected to MQTT broker!
+
+Successfully connected to MQTT broker!
+
+Successfully connected to MQTT broker!
+
+Successfully connected to MQTT broker!
+
+Successfully connected to MQTT broker!
+

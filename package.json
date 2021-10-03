@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "cbor": "^8.0.0"
+  }
+}

@@ -1,0 +1,449 @@
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>set /a num_worker = 100 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>for /L %x in (1 1 100) do (start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+Successfully connected to MQTT broker!
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+Successfully connected to MQTT broker!
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+Successfully connected to MQTT broker!
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+Successfully connected to MQTT broker!
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+Successfully connected to MQTT broker!
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+Successfully connected to MQTT broker!
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+Successfully connected to MQTT broker!
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+1000 requests time: 0.488s. 1628225115860ms to 1628225116348ms
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+Successfully connected to MQTT broker!
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+1000 requests time: 0.684s. 1628225115722ms to 1628225116406ms
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+1000 requests time: 0.616s. 1628225115854ms to 1628225116470ms
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+1000 requests time: 0.669s. 1628225116050ms to 1628225116719ms
+1000 requests time: 0.764s. 1628225116077ms to 1628225116841ms
+1000 requests time: 0.844s. 1628225116028ms to 1628225116872ms
+1000 requests time: 0.928s. 1628225115972ms to 1628225116900ms
+1000 requests time: 0.939s. 1628225116004ms to 1628225116943ms
+1000 requests time: 0.81s. 1628225116174ms to 1628225116984ms
+Successfully connected to MQTT broker!
+1000 requests time: 0.779s. 1628225116363ms to 1628225117142ms
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+1000 requests time: 0.356s. 1628225117558ms to 1628225117914ms
+1000 requests time: 1.098s. 1628225117034ms to 1628225118132ms
+1000 requests time: 0.975s. 1628225117325ms to 1628225118300ms
+1000 requests time: 0.579s. 1628225117755ms to 1628225118334ms
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+1000 requests time: 1.235s. 1628225117325ms to 1628225118560ms
+Successfully connected to MQTT broker!
+1000 requests time: 0.93s. 1628225117737ms to 1628225118667ms
+1000 requests time: 1.16s. 1628225117557ms to 1628225118717ms
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+1000 requests time: 0.57s. 1628225118412ms to 1628225118982ms
+1000 requests time: 0.664s. 1628225118417ms to 1628225119081ms
+Successfully connected to MQTT broker!
+1000 requests time: 1.085s. 1628225118367ms to 1628225119452ms
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+1000 requests time: 1.165s. 1628225118525ms to 1628225119690ms
+1000 requests time: 1.117s. 1628225118579ms to 1628225119696ms
+1000 requests time: 0.956s. 1628225118818ms to 1628225119774ms
+1000 requests time: 1s. 1628225118818ms to 1628225119818ms
+Successfully connected to MQTT broker!
+1000 requests time: 1.275s. 1628225118839ms to 1628225120114ms
+Successfully connected to MQTT broker!
+1000 requests time: 0.903s. 1628225119297ms to 1628225120200ms
+1000 requests time: 0.709s. 1628225119567ms to 1628225120276ms
+1000 requests time: 0.823s. 1628225119474ms to 1628225120297ms
+1000 requests time: 0.787s. 1628225119604ms to 1628225120391ms
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+1000 requests time: 1.231s. 1628225119474ms to 1628225120705ms
+1000 requests time: 0.616s. 1628225120200ms to 1628225120816ms
+1000 requests time: 0.474s. 1628225120424ms to 1628225120898ms
+1000 requests time: 0.478s. 1628225120431ms to 1628225120909ms
+Successfully connected to MQTT broker!
+1000 requests time: 1.492s. 1628225119474ms to 1628225120966ms
+1000 requests time: 0.829s. 1628225120428ms to 1628225121257ms
+1000 requests time: 0.606s. 1628225120925ms to 1628225121531ms
+1000 requests time: 1.169s. 1628225120429ms to 1628225121598ms
+Successfully connected to MQTT broker!
+1000 requests time: 1.795s. 1628225119987ms to 1628225121782ms
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+1000 requests time: 0.711s. 1628225121904ms to 1628225122615ms
+1000 requests time: 0.897s. 1628225121873ms to 1628225122770ms
+1000 requests time: 0.903s. 1628225121884ms to 1628225122787ms
+1000 requests time: 0.99s. 1628225121801ms to 1628225122791ms
+Successfully connected to MQTT broker!
+1000 requests time: 0.982s. 1628225121873ms to 1628225122855ms
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+1000 requests time: 1.271s. 1628225121801ms to 1628225123072ms
+1000 requests time: 1.303s. 1628225121806ms to 1628225123109ms
+1000 requests time: 1.143s. 1628225122006ms to 1628225123149ms
+1000 requests time: 0.877s. 1628225122344ms to 1628225123221ms
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+1000 requests time: 1.48s. 1628225121801ms to 1628225123281ms
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+1000 requests time: 1.709s. 1628225121760ms to 1628225123469ms
+1000 requests time: 1.626s. 1628225121904ms to 1628225123530ms
+1000 requests time: 1.189s. 1628225122369ms to 1628225123558ms
+Successfully connected to MQTT broker!
+1000 requests time: 1.459s. 1628225122116ms to 1628225123575ms
+Successfully connected to MQTT broker!
+1000 requests time: 1.695s. 1628225121904ms to 1628225123599ms
+1000 requests time: 1.717s. 1628225121884ms to 1628225123601ms
+1000 requests time: 1.286s. 1628225122369ms to 1628225123655ms
+1000 requests time: 1.369s. 1628225122344ms to 1628225123713ms
+1000 requests time: 1.175s. 1628225122543ms to 1628225123718ms
+1000 requests time: 0.904s. 1628225122877ms to 1628225123781ms
+1000 requests time: 1.722s. 1628225122131ms to 1628225123853ms
+1000 requests time: 0.977s. 1628225122876ms to 1628225123853ms
+1000 requests time: 1.645s. 1628225122259ms to 1628225123904ms
+1000 requests time: 0.655s. 1628225123293ms to 1628225123948ms
+1000 requests time: 1.164s. 1628225122796ms to 1628225123960ms
+Successfully connected to MQTT broker!
+1000 requests time: 2.117s. 1628225121941ms to 1628225124058ms
+1000 requests time: 1.23s. 1628225122891ms to 1628225124121ms
+1000 requests time: 0.85s. 1628225123295ms to 1628225124145ms
+1000 requests time: 0.707s. 1628225123562ms to 1628225124269ms
+1000 requests time: 0.997s. 1628225123303ms to 1628225124300ms
+1000 requests time: 1.113s. 1628225123289ms to 1628225124402ms
+1000 requests time: 1.131s. 1628225123282ms to 1628225124413ms
+1000 requests time: 1.179s. 1628225123300ms to 1628225124479ms
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+1000 requests time: 1.254s. 1628225123283ms to 1628225124537ms
+1000 requests time: 1.233s. 1628225123360ms to 1628225124593ms
+1000 requests time: 1.02s. 1628225123581ms to 1628225124601ms
+1000 requests time: 0.73s. 1628225123980ms to 1628225124710ms
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+1000 requests time: 0.43s. 1628225124484ms to 1628225124914ms
+1000 requests time: 0.565s. 1628225124484ms to 1628225125049ms
+1000 requests time: 0.622s. 1628225124484ms to 1628225125106ms
+1000 requests time: 0.622s. 1628225124484ms to 1628225125106ms
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+1000 requests time: 0.548s. 1628225125146ms to 1628225125694ms
+1000 requests time: 0.659s. 1628225125136ms to 1628225125795ms
+1000 requests time: 0.504s. 1628225125495ms to 1628225125999ms
+1000 requests time: 0.834s. 1628225125167ms to 1628225126001ms
+1000 requests time: 0.858s. 1628225125143ms to 1628225126001ms
+1000 requests time: 1.188s. 1628225124853ms to 1628225126041ms
+1000 requests time: 0.982s. 1628225125132ms to 1628225126114ms
+1000 requests time: 0.995s. 1628225125138ms to 1628225126133ms
+1000 requests time: 1.022s. 1628225125168ms to 1628225126190ms
+1000 requests time: 1.337s. 1628225124854ms to 1628225126191ms
+1000 requests time: 1.03s. 1628225125167ms to 1628225126197ms
+1000 requests time: 1.086s. 1628225125133ms to 1628225126219ms
+1000 requests time: 1.047s. 1628225125176ms to 1628225126223ms
+1000 requests time: 1.091s. 1628225125163ms to 1628225126254ms
+1000 requests time: 0.776s. 1628225125488ms to 1628225126264ms
+1000 requests time: 1.101s. 1628225125168ms to 1628225126269ms
+1000 requests time: 1.14s. 1628225125135ms to 1628225126275ms
+1000 requests time: 1.119s. 1628225125181ms to 1628225126300ms
+1000 requests time: 0.811s. 1628225125489ms to 1628225126300ms
+1000 requests time: 0.81s. 1628225125513ms to 1628225126323ms
+1000 requests time: 0.888s. 1628225125488ms to 1628225126376ms
+Worker id = 2966.  1000 responses time: 11.591s.  1628225119049ms to 1628225130640ms
+Worker id = 1713.  1000 responses time: 24.567s.  1628225117805ms to 1628225142372ms
+Worker id = 5234.  1000 responses time: 3.334s.  1628225150492ms to 1628225153826ms
+Worker id = 5564.  1000 responses time: 31.883s.  1628225130652ms to 1628225162535ms
+Worker id = 5668.  1000 responses time: 21.428s.  1628225142380ms to 1628225163808ms
+Worker id = 880.  1000 responses time: 20.238s.  1628225145823ms to 1628225166061ms
+Worker id = 5813.  1000 responses time: 19.75s.  1628225147120ms to 1628225166870ms
+Worker id = 1219.  1000 responses time: 17.142s.  1628225153834ms to 1628225170976ms
+Worker id = 8371.  1000 responses time: 15.066s.  1628225156484ms to 1628225171550ms
+Worker id = 6840.  1000 responses time: 14.43s.  1628225159732ms to 1628225174162ms
+Worker id = 2726.  1000 responses time: 2.76s.  1628225175449ms to 1628225178209ms
+Worker id = 9440.  1000 responses time: 16.091s.  1628225166075ms to 1628225182166ms
+Worker id = 1469.  1000 responses time: 18.203s.  1628225166301ms to 1628225184504ms
+Worker id = 7812.  1000 responses time: 21.547s.  1628225166879ms to 1628225188426ms
+Worker id = 1925.  1000 responses time: 20.87s.  1628225169116ms to 1628225189986ms
+Worker id = 1742.  1000 responses time: 21.737s.  1628225170985ms to 1628225192722ms
+Worker id = 8681.  1000 responses time: 24.457s.  1628225171096ms to 1628225195553ms
+Worker id = 9149.  1000 responses time: 23.607s.  1628225174168ms to 1628225197776ms
+Worker id = 8783.  1000 responses time: 21.022s.  1628225178216ms to 1628225199238ms
+Worker id = 7447.  1000 responses time: 3.936s.  1628225197869ms to 1628225201805ms
+Worker id = 8749.  1000 responses time: 2.677s.  1628225201810ms to 1628225204487ms
+Worker id = 7398.  1000 responses time: 2.618s.  1628225204495ms to 1628225207113ms
+Worker id = 7692.  1000 responses time: 2.349s.  1628225207122ms to 1628225209471ms
+Worker id = 171.  1000 responses time: 2.537s.  1628225209477ms to 1628225212014ms
+Worker id = 1768.  1000 responses time: 2.274s.  1628225212717ms to 1628225214991ms
+Worker id = 9145.  1000 responses time: 2.236s.  1628225214997ms to 1628225217233ms
+Worker id = 1557.  1000 responses time: 34.059s.  1628225184510ms to 1628225218570ms
+Worker id = 2469.  1000 responses time: 33.159s.  1628225186949ms to 1628225220108ms
+Worker id = 4392.  1000 responses time: 33.505s.  1628225189993ms to 1628225223498ms
+Worker id = 5808.  1000 responses time: 33.839s.  1628225192729ms to 1628225226568ms
+Worker id = 588.  1000 responses time: 36.039s.  1628225192987ms to 1628225229026ms
+Worker id = 8181.  1000 responses time: 2.351s.  1628225233220ms to 1628225235571ms
+Worker id = 1969.  1000 responses time: 2.172s.  1628225237741ms to 1628225239913ms
+Worker id = 1662.  1000 responses time: 2.163s.  1628225239918ms to 1628225242081ms
+Worker id = 936.  1000 responses time: 2.397s.  1628225242087ms to 1628225244485ms
+Worker id = 2339.  1000 responses time: 2.263s.  1628225244490ms to 1628225246753ms
+Worker id = 7533.  1000 responses time: 2.026s.  1628225246760ms to 1628225248786ms
+Worker id = 3316.  1000 responses time: 1.973s.  1628225248792ms to 1628225250765ms
+Worker id = 5802.  1000 responses time: 1.954s.  1628225250769ms to 1628225252723ms
+Worker id = 8338.  1000 responses time: 2.129s.  1628225252728ms to 1628225254857ms
+Worker id = 974.  1000 responses time: 2.365s.  1628225254862ms to 1628225257227ms
+Worker id = 2307.  1000 responses time: 2.069s.  1628225257231ms to 1628225259300ms
+Worker id = 6846.  1000 responses time: 2.036s.  1628225259307ms to 1628225261343ms
+Worker id = 1183.  1000 responses time: 2.058s.  1628225261348ms to 1628225263406ms
+Worker id = 9785.  1000 responses time: 1.993s.  1628225263411ms to 1628225265404ms

@@ -1,0 +1,64 @@
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>set /a num_worker = 10 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>for /L %x in (1 1 10) do (start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+
+C:\Users\Jonathan Xu\OneDrive\McGill\ANRL\scheduling\Code\l1_rt_sy_scheduler\eval>(start /b node evalWorker.js ) 
+Successfully connected to MQTT broker!
+Launch first request at about 1628256591900ms.
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Launch first request at about 1628256591907ms.
+Launch first request at about 1628256591908ms.
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Launch first request at about 1628256591919ms.
+Launch first request at about 1628256591920ms.
+Successfully connected to MQTT broker!
+Launch first request at about 1628256591934ms.
+Successfully connected to MQTT broker!
+Launch first request at about 1628256591937ms.
+Successfully connected to MQTT broker!
+Launch first request at about 1628256591948ms.
+Successfully connected to MQTT broker!
+Successfully connected to MQTT broker!
+Launch first request at about 1628256591954ms.
+Launch first request at about 1628256591955ms.
+5000 launching time: 1.001s. 1628256591900ms to 1628256592901ms
+5000 launching time: 0.996s. 1628256591907ms to 1628256592903ms
+5000 launching time: 1.073s. 1628256591920ms to 1628256592993ms
+5000 launching time: 1.099s. 1628256591908ms to 1628256593007ms
+5000 launching time: 1.06s. 1628256591954ms to 1628256593014ms
+5000 launching time: 1.17s. 1628256591937ms to 1628256593107ms
+5000 launching time: 1.16s. 1628256591955ms to 1628256593115ms
+5000 launching time: 1.197s. 1628256591934ms to 1628256593131ms
+5000 launching time: 1.206s. 1628256591948ms to 1628256593154ms
+5000 launching time: 1.247s. 1628256591919ms to 1628256593166ms
+Worker id = 1371.  5000 responses time: 12.992s.  1628256591907ms to 1628256604899ms
+Worker id = 47.  5000 responses time: 13.786s.  1628256591900ms to 1628256605686ms
+Worker id = 235.  5000 responses time: 14.555s.  1628256591920ms to 1628256606475ms
+Worker id = 8267.  5000 responses time: 14.801s.  1628256591908ms to 1628256606709ms
+Worker id = 1168.  5000 responses time: 14.959s.  1628256591954ms to 1628256606913ms
+Worker id = 1551.  5000 responses time: 15.141s.  1628256591937ms to 1628256607078ms
+Worker id = 4425.  5000 responses time: 15.346s.  1628256591955ms to 1628256607301ms
+Worker id = 5619.  5000 responses time: 15.542s.  1628256591934ms to 1628256607476ms
+Worker id = 3057.  5000 responses time: 15.708s.  1628256591948ms to 1628256607656ms
+Worker id = 8394.  5000 responses time: 15.826s.  1628256591919ms to 1628256607745ms

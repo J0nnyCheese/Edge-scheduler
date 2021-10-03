@@ -1,0 +1,23 @@
+{
+  "name": "rt_sy_merged",
+  "version": "1.0.0",
+  "description": "A L1 Scheduler that schedules both SY and RT tasks. Schedules are published using MQTT/",
+  "main": "L1Scheduler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Distributed",
+    "Scheduling",
+    "MQTT"
+  ],
+  "author": "Zhelin",
+  "license": "ISC",
+  "dependencies": {
+    "aedes": "^0.46.0",
+    "cbor": "^7.0.6",
+    "jsonschema": "^1.2.6",
+    "mosca": "^2.8.3",
+    "mqtt": "^4.2.8"
+  }
+}

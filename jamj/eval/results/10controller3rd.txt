@@ -1,0 +1,10 @@
+Successfully connected to broker!
+Start bid listening...
+First bid request received at: 1628256881332ms.
+Didn't find a valid cached bid response. Generating a new bid response and cache it.
+Published first response at: 1628256881335ms
+10000 requests time (with ACK): 6.031s. 1628256881332ms to 1628256887363ms
+20000 requests time (with ACK): 8.922s. 1628256881332ms to 1628256890254ms
+30000 requests time (with ACK): 11.709s. 1628256881332ms to 1628256893041ms
+40000 requests time (with ACK): 14.052s. 1628256881332ms to 1628256895384ms
+50000 requests time (with ACK): 15.734s. 1628256881332ms to 1628256897066ms
