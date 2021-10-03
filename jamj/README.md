@@ -1,6 +1,8 @@
-npm install cbor
-npm install mqtt
-npm install aedes
+To start:
+
+npm install cbor \n
+npm install mqtt \n
+npm install aedes \n
 
 How to run my code?
 ./testing/broker.js
